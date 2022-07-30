@@ -22,7 +22,7 @@
 We often find ourselves looking for an interseting movie to watch but ended up with no choice that's probably
 because the way we search is not effective enough, so I made  this project so that we can get randomly a bunch of good movies, that are highly recommended at least based on IMDB's rating.
 
-At the end of the search, the user is asked wether he want/not want to save the list of the recommended movies as CSV file, with the aim of sharing it with a friend or just savint it on his laptop!
+At the end of the search, the user is asked wether he want/not want to save the list of the recommended movies as CSV file, with the aim of sharing it with a friend or just saving it on his laptop!
 
 
 #### CONTENT 
