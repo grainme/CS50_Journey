@@ -1,7 +1,6 @@
 
 
 # Movie Recommendation System // WebScarping
-
 #### Demo Video : www.youtube.com/watch?v=rZFYF-xwQkg
 
 <details>
@@ -17,6 +16,7 @@
   </ol>
 </details>
 
+![movie](https://user-images.githubusercontent.com/104838272/209021838-11283e0c-9ee1-458a-a8fa-af323df21054.jpg)
 #### Description
 
 We often find ourselves looking for an interseting movie to watch but ended up with no choice that's probably
